@@ -1,0 +1,14 @@
+Package: com.4nni3.coolc
+Description: Makes ControlCenter cool replacement
+Version: 1:4.0
+Section: Tweaks
+Maintainer: Hibaldz
+Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
+Name: CoolCC ar
+Author: Phillip Tennen
+Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
+Filename: ./deb/com.4nni3.coolcc_1:4.0_iphoneos-arm
+Size: 328
+MD5sum: C14C5C89842F04FE4C7060BB3A9A643C
+SHA1: D63D3683AA54AB2D70D9AB6CF9A5B8DEE4BD72C3
+SHA256: 3D727AD1F17CFBA0C933F3FB2A16BF13BB0342686E9BF1EDAB98D8C5F06E5B59
