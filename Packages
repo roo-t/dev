@@ -1,0 +1,11 @@
+Package: com.firepo.hmodeis.apphack
+Version: 4.5-3
+Section: Tweaks
+Maintainer: hibaldz 
+Depends: mobilesubstrate, 
+ws.hbang.common 
+Architecture: iphoneos-arm 
+Installed-Size: 6228 
+Name: Apps Hacks Author: hmodei96 
+Depiction: https://roo-t.github.io/dev/ 
+SileoDepiction: https://roo-t.github.io/dev/
