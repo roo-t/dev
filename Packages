@@ -1,12 +1,16 @@
-a003958b7a91391e82a73fce42100302.txt0000777000175000017510000000045714133041357020267 0ustar  hibaldzhpcompaq8200elitecmtpc
 Package: com.firepo.hmodeis.apphack
 Version: 4.5-3
 Section: Tweaks
-Maintainer: hibaldz 
-Depends: mobilesubstrate, 
-ws.hbang.common 
-Architecture: iphoneos-arm 
-Installed-Size: 6228 
-Name: Apps Hacks Author: hmodei96 
-Depiction: https://roo-t.github.io/dev/ 
-SileoDepiction: https://roo-t.github.io/dev/
+Maintainer: hmodei96
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: ./debs/17.deb
+Size: 2942568
+Installed-Size: 6228
+Description: The best tweak to hack hundreds of Apps
+   افضل اداة لتهكير المئات من تطبيقات الاب ستور
+Name: Apps Hacks
+Author: hmodei96
+Depiction: https://aric0.com/index.php?pid=17
+SileoDepiction: https://aric0.com/sileo.php?pid=17
+MD5sum: ff09132f96337b53e846ab303ba0d69f
