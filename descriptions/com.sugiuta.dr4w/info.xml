@@ -1,0 +1,28 @@
+<package>
+    <id>com.sugiuta.dr4w</id>
+    <name>Dr4w</name>
+    <version>0.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>14.0</miniOS>
+            <maxiOS>15.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+
+      <dependencies>
+		<package>mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis (>= 1.1), firmware (>=14.0)</package>
+	</dependencies>
+
+    <descriptionlist>
+        <description>You can draw from anywhere and take a screenshot.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+		<change>Initial release.</change>
+    </changelog>
+    <links></links>
+</package>

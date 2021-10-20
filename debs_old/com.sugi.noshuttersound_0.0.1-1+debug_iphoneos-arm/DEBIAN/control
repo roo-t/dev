@@ -1,0 +1,9 @@
+Package: com.sugi.noshuttersound
+Name: No Shutter Sound
+Architecture: iphoneos-arm
+Description: Removes the camera shutter sound.
+Maintainer: sugiuta
+Author: sugiuta
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 56

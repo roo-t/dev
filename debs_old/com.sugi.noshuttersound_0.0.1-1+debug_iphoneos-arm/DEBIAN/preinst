@@ -1,0 +1,11 @@
+#!/bin/sh
+ 
+cd /System/Library/Audio/UISounds
+
+mv begin_record.caf begin_record.caf.bak
+
+mv end_record.caf end_record.caf.bak
+
+mv photoShutter.caf photoShutter.caf.bak
+
+exit 0
