@@ -1,0 +1,10 @@
+Package: com.hibaldz.apps
+Version: 4.5-3
+Section: Tweaks
+Maintainer: Hibaldz-Hack
+Depends: mobilesubstrate, ws.hbang.common
+SileoDepiction: https://roo-t.github.io/apps/
+Architecture: iphoneos-arm
+Installed-Size: 6228
+Name: Apps Hacks
+Author: sww_p

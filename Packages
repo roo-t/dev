@@ -1,13 +1,13 @@
-Package: net.hibaldz.hibaldz.hack.apps
+Package: com.hibaldz.apps
 Version: 4.5-3
 Section: Tweaks
-Maintainer: hmodei96
+Maintainer: Hibaldz-Hack
 Depends: mobilesubstrate, ws.hbang.common
-SileoDepiction: https://myclassic.net/sileo.php?pid=2764
+SileoDepiction: https://roo-t.github.io/apps/
 Architecture: iphoneos-arm
 Installed-Size: 6228
 Name: Apps Hacks
-Author: hmodei96
+Author: sww_p
 
 Package: com.sugi.apt-ftparchive
 Architecture: iphoneos-arm
