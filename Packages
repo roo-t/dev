@@ -8,11 +8,11 @@ Author: Rango
 Section: Tweaks
 Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina
 SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json
-Version: 0.3.1
+Version: 0.0.1-1+debug
 Installed-Size: 340
-
-Package: com.myclassic.appshack
-Version: 4.5-3
+ 
+Package: com.app.apphack
+Version: 0.0.1-1+debug
 Section: Tweaks
 Maintainer: Hibaldz-Hack
 Depends: mobilesubstrate, ws.hbang.common
