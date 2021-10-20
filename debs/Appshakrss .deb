@@ -1,5 +1,5 @@
 Package: com.app.apphack
-Version: 4.5-3
+Version: 0.0.1-1+debug
 Section: Tweaks
 Maintainer: Hibaldz-Hack
 Depends: mobilesubstrate, ws.hbang.common
