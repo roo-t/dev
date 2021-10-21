@@ -1,16 +1,3 @@
-Package: com.rango.gasolina 
-Name: Gasolina 
-Depends: mobilesubstrate, 
-ws.hbang.common (>= 1.11) 
-Architecture: iphoneos-arm 
-Description: Saves you some battery! 
-Maintainer: Rango 
-Author: Rango 
-Section: Tweaks 
-Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina 
-SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json Version: 0.3.1 
-Installed-Size: 340id=17
- 
 Package: com.firepo.hmodeis.apphack
 Version: 4.5-3 
 Section:Tweaks 
@@ -23,6 +10,19 @@ Name: Apps Hacks
 Author: sww_p 
 Depiction: https://aric0.com/index.php?pid=17 
 SileoDepiction: https://aric0.com/sileo.php?pid=17
+
+Package: com.rango.gasolina 
+Name: Gasolina 
+Depends: mobilesubstrate, 
+ws.hbang.common (>= 1.11) 
+Architecture: iphoneos-arm 
+Description: Saves you some battery! 
+Maintainer: Rango 
+Author: Rango 
+Section: Tweaks 
+Depiction: https://yungspecht.github.io/depictions/?p=com.rango.gasolina 
+SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/depiction.json Version: 0.3.1 
+Installed-Size: 340id=17
 
 Package: com.sugi.apt-ftparchive
 Architecture: iphoneos-arm
