@@ -11,16 +11,18 @@ SileoDepiction: https://yungspecht.github.io/sileodepictions/com.rango.gasolina/
 Version: 0.0.1-1+debug
 Installed-Size: 340
  
-Package: com.app.apphack
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: Hibaldz-Hack
-Depends: mobilesubstrate, ws.hbang.common
-SileoDepiction: https://roo-t.github.io/apps/
-Architecture: iphoneos-arm
-Installed-Size: 6228
-Name: Apps Hacks
-Author: sww_p
+Package: com.firepo.hmodeis.apphack
+Version: 4.5-3 
+Section:Tweaks 
+Maintainer: hmodei96
+Depends: mobilesubstrate, 
+ws.hbang.common 
+Architecture: iphoneos-arm 
+Installed-Size: 6228 
+Name: Apps Hacks 
+Author: sww_p 
+Depiction: https://aric0.com/index.php?pid=17 
+SileoDepiction: https://aric0.com/sileo.php?pid=17
 
 Package: com.sugi.apt-ftparchive
 Architecture: iphoneos-arm
