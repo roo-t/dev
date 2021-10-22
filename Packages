@@ -1,17 +1,14 @@
-Package: com.elias.spy2 
-Name: Spy 2 
-Version: 1.2 
-Section: Tweaks 
-Architecture: iphoneos-arm 
-Depends: mobilesubstrate, 
-com.spark.libsparkapplist, 
-com.opa334.ccsupport, 
-ws.hbang.common 
-Conflicts: com.elias.spy 
-Installed-Size: 2916 
-Author: elias 
-Maintainer: elias 
-Description: An awesome MobileSubstrate tweak!
+Package: com.elias.spy2
+Name: Spy 2
+Version: 1.3-1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport, ws.hbang.common
+Conflicts: com.elias.spy
+Installed-Size: 2912
+Author: elias
+Maintainer: elias
+Description: An awesome MobileSubstrate tweak
 
 Package: com.firepo.hmodeis.apphack
 Version: 4.5-3 
