@@ -402,3 +402,13 @@ Depiction: https://sugiuta.github.io/descriptions/changelog.html?p=com.sugiuta.s
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Suimitsuto.bundle/icon@2x.png
 
+Package: org.mr.myiapcracker
+Version: 2.2
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+SileoDepiction: https://myclassic.net/sileo.php?pid=1893
+Architecture: iphoneos-arm
+Installed-Size: 1136
+Name: MyIapCracker
+Author: Stem Grade
+Icon: https://mainrepo.org/CydiaIcon.
