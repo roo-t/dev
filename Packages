@@ -399,6 +399,18 @@ Depiction: https://sugiuta.github.io/descriptions/changelog.html?p=com.sugiuta.s
 Author: sugiuta
 Icon: file:///Library/PreferenceBundles/Suimitsuto.bundle/icon@2x.png
 
+Package: me.hmodei96.snapspoof 
+Version: 0.0.1 
+Section: Tweaks 
+Maintainer: hmodei96 
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm 
+Installed-Size: 1032 
+Name: Snap Spoof 
+Author: sww_p 
+Depiction: https://roo-t.github.io/dev/ 
+SileoDepiction: http://hmodeis.firepo.me/sileo.php?pid=102
+
 Package: org.mr.myiapcracker
 Version: 2.2
 Section: Tweaks
