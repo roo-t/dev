@@ -1,0 +1,8 @@
+Origin: Hibaldz-Hanoo Repo
+Label: Hibaldz-Hanoo Repo
+Suite: stable
+Version: 1.0
+Codename: vocalock
+Architectures: iphoneos-arm
+Components: main
+Description: iOS Tweak dev.
