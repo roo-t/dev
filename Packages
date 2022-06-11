@@ -2615,6 +2615,8 @@ Author: HIBALDZ
 Section: Development
 Version: 2.1.1
 Installed-Size: 164
+Homepage: https://roo-t.github.io/apps-/
+dev: HIBALDZ
 
 Package: com.HIBALDZ.relicloader
 Name: relicloader
@@ -2627,3 +2629,5 @@ Author: HIBALDZ
 Section: Development
 Version: 3.3.3
 Installed-Size: 2664
+Homepage: https://roo-t.github.io/apps-/
+dev: HIBALDZ
