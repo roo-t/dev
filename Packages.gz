@@ -1,26 +1,3 @@
-Package: com.HIBALDZ.librelic
-Name: librelic
-Depends: mobilesubstrate (>= 0.9.5.000)
-Architecture: iphoneos-arm
-Description: library for Snapchat hooking
-Maintainer: HIBALDZ
-Author: HIBALDZ
-Section: Development
-Version: 2.1.1
-Installed-Size: 164
-
-Package: com.HIBALDZ.relicloader
-Name: relicloader
-Depends: mobilesubstrate, com.no5up-kanji.librelic
-Conflicts: com.wyattgahm-kanji.shadowx
-Architecture: iphoneos-arm
-Description: A ShadowX implementation for librelic 2.1
-Maintainer: HIBALDZ
-Author: HIBALDZ
-Section: Development
-Version: 3.3.3
-Installed-Size: 2664
-
 Package: com.Hibaldz.ABypassarabic
 Version: 1.5.4
 Architecture: iphoneos-arm
@@ -2629,3 +2606,25 @@ Installed-Size: 136
 Name: Zenumbra
 dev: HIBALDZ
 
+Package: com.HIBALDZ.librelic
+Name: librelic
+Depends: mobilesubstrate (>= 0.9.5.000)
+Architecture: iphoneos-arm
+Description: library for Snapchat hooking
+Maintainer: HIBALDZ
+Author: HIBALDZ
+Section: Development
+Version: 2.1.1
+Installed-Size: 164
+
+Package: com.HIBALDZ.relicloader
+Name: relicloader
+Depends: mobilesubstrate, com.HIBALDZ.librelic
+Conflicts: com.HIBALDZ.shadowx
+Architecture: iphoneos-arm
+Description: A ShadowX implementation for librelic 2.1
+Maintainer: HIBALDZ
+Author: HIBALDZ
+Section: Development
+Version: 3.3.3
+Installed-Size: 2664
