@@ -2619,7 +2619,7 @@ Installed-Size: 164
 Package: com.HIBALDZ.relicloader
 Name: relicloader
 Depends: mobilesubstrate, com.no5up-kanji.librelic
-Conflicts: com.wyattgahm-kanji.shadowx
+Conflicts: com.HIBALDZ.shadowx
 Architecture: iphoneos-arm
 Description: A ShadowX implementation for librelic 2.1
 Maintainer: HIBALDZ
